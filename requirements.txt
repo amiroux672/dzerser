@@ -1,0 +1,3 @@
+# حط مكاتبك
+requests
+telebot
